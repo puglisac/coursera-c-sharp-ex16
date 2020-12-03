@@ -21,6 +21,6 @@ public class Resizer : MonoBehaviour
         }
 
         float newVectorValue = Time.deltaTime * ScaleFactorPerSecond * scaleFactorSignMultiplier;
-        transform.localScale += new Vector3(newVectorValue, newVectorValue, 1);
+        transform.localScale += new Vector3(newVectorValue, newVectorValue, 0);
     }
 }
