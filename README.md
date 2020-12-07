@@ -1,4 +1,5 @@
-# Exercise 14: Jump That Game Object
+# Exercise 16: Shrink and Grow
+
 This is an exercise for the coursera course [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity)
 
 ### Problem 1 - Grow out of control!
